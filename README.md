@@ -1,8 +1,8 @@
-# Cert Prep Engine (v3)
+# Certification Preparation Engine
 
 > *Note: The source code for this application is held in a private repository for security and API protection. This repository serves as the architectural overview and technical documentation.*
 
-A multi-tenant, cloud-hosted SaaS educational platform optimized for cost, scale, and AI-driven diagnostics.
+**A multi-tenant, cloud-hosted SaaS educational platform optimized for cost, scale, and AI-driven diagnostics.**
 
 ## Executive Summary
 The Cert Prep Engine is a certification-agnostic simulation platform designed to replace static study materials with algorithmic testing. Built from scratch without heavy frontend frameworks to maximize performance, the platform mathematically mirrors official exam blueprints, isolates user data in a multi-tenant PostgreSQL database, and utilizes an MD5-hashed caching layer to deliver AI-generated tutoring at near-zero latency and minimal API cost.
